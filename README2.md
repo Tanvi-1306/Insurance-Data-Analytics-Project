@@ -15,7 +15,7 @@ This project analyzes insurance data using Power BI to understand customer behav
 - Risk and premium analysis
 
 ## Dashboard
-![Dashboard](Screenshot (167).png)
+![Dashboard]([Screenshot (167).png](https://github.com/Tanvi-1306/Insurance-Data-Analytics-Project/blob/main/Screenshot%20(167).png?raw=true))
 
 ## Business Use
 This dashboard helps insurance companies:
