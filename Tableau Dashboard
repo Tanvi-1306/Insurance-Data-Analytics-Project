@@ -1,0 +1,22 @@
+# Insurance Tableau Dashboard
+
+## Project Overview
+This project is an Insurance Data Analysis Dashboard created using Tableau.
+It helps to understand insurance performance and trends.
+
+## Tools Used
+- Tableau
+- Excel / CSV (Data Source)
+
+## Key Insights
+- Policy-wise performance analysis
+- Claim amount trends
+- Customer and region-wise insights
+- Business decision support using visuals
+
+## File Information
+- Tableau_Dashboard_Insurance.twbx : Tableau packaged dashboard file
+
+## Purpose
+This dashboard helps business users and management to analyze insurance data
+and take better decisions based on insights.
