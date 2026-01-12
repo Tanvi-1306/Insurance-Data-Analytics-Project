@@ -1,0 +1,15 @@
+## Insurance Data Analytics Project
+
+### SQL Insurance Dashboard
+This SQL file contains queries used for:
+- Insurance policy analysis
+- Claims analysis
+- Customer insights
+- Dashboard-level reporting
+
+### Tools Used
+- SQL
+- Insurance domain data
+
+### Purpose
+This project is created for learning and interview preparation.
